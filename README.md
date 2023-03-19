@@ -9,7 +9,8 @@ A simple ruby on rails blog project.
 
 # Getting started
 Fork or download project and run:
-```bundle install
+```
+bundle install
 ```
 Then, run the rails application:
 
