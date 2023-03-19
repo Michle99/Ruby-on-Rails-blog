@@ -1,24 +1,21 @@
-# README
+# Ruby on Rails project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description
+A simple ruby on rails blog project.
 
-Things you may want to cover:
+# Dependencies
+- Ruby
+- Rails
 
-* Ruby version
+# Getting started
+Fork or download project and run:
+```bundle install
+```
+Then, run the rails application:
 
-* System dependencies
+``` 
+rails s
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Resources
+[Ruby on Rails Guide](https://guides.rubyonrails.org/getting_started.html)
